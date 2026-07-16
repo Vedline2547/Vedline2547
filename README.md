@@ -1,46 +1,164 @@
-# Hi there 👋, I'm Vedline
+# Hi there, I'm Vedline Ochieng! 👋
 
-## About Me
+<p align="center">
+  <em>
+    Civil Engineering Student • Machine Learning Enthusiast • Python Developer • Future AI Engineer
+  </em>
+</p>
 
-🎓 Civil Engineering student passionate about Artificial Intelligence and Machine Learning.
+---
 
-💻 I enjoy building projects with Python and applying data-driven solutions to real-world engineering problems.
+## 🚀 About Me
 
-📚 Currently learning:
+I'm a **Civil Engineering student** with a growing passion for **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy leveraging Python and modern machine learning techniques to solve practical engineering problems and uncover insights from data.
 
-* Machine Learning
-* Deep Learning
-* Data Science
-* Computer Vision
+I believe the future of engineering lies in combining traditional engineering principles with intelligent, data-driven technologies. Through continuous learning and hands-on projects, I'm building expertise at the intersection of **Civil Engineering** and **Artificial Intelligence**.
 
-🛠️ Skills:
+---
 
-* Python
-* Machine Learning
-* NumPy
-* Pandas
-* Scikit-Learn
-* AutoCAD
-* Civil 3D
-* Revit
+## 🌱 Currently Learning
 
-🚀 Projects:
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Science
+- 📈 Model Optimization
+- ⚙️ MLOps Fundamentals
 
-* Linear Regression Models
-* Data Analysis Projects
-* Image Classification Projects
-* BIM and Structural Modelling Projects
+---
 
-🤝 Open to collaborating on:
+## 💻 Tech Stack
 
-* Machine Learning Projects
-* AI Applications in Civil Engineering
-* Data Science Projects
+### 👨‍💻 Programming
 
-📫 Reach me on:
+- Python
 
-* LinkedIn: https://www.linkedin.com/in/vedline-ochieng-025146290/
-* Email: ochiengved@gmail.com
+### 📚 Machine Learning & Data Science
 
-⚡ Fun Fact:
-I enjoy combining Civil Engineering and Artificial Intelligence to solve engineering challenges.
+- Scikit-learn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+### 🏗 Engineering Software
+
+- Autodesk Revit
+- Civil 3D
+- AutoCAD
+
+### 🛠 Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🚀 What I'm Building
+
+I enjoy building projects involving:
+
+- 📊 Data Analysis & Visualization
+- 🧹 Data Cleaning & Feature Engineering
+- 🤖 Machine Learning Models
+- 🌲 Ensemble Learning Algorithms
+- 📈 Regression & Classification Models
+- 🎯 Hyperparameter Tuning
+- ⚖️ Imbalanced Data Handling (SMOTE)
+- 🖼 Computer Vision
+- 🏗 BIM & Structural Modelling
+
+---
+
+## 📂 Featured Machine Learning Topics
+
+✔ Linear Regression
+
+✔ Logistic Regression
+
+✔ K-Nearest Neighbors (KNN)
+
+✔ Decision Trees
+
+✔ Random Forest
+
+✔ Gradient Boosting
+
+✔ XGBoost
+
+✔ LightGBM
+
+✔ CatBoost
+
+✔ Ensemble Learning
+
+✔ Cross Validation
+
+✔ Feature Selection
+
+✔ Feature Engineering
+
+✔ Hyperparameter Tuning
+
+✔ Model Evaluation
+
+✔ Data Preprocessing
+
+---
+
+## 🎯 Current Goals
+
+- Build real-world AI projects
+- Apply Machine Learning to Civil Engineering
+- Contribute to Open Source
+- Learn Deep Learning and Computer Vision
+- Strengthen my Data Science portfolio
+- Grow as an AI Engineer
+
+---
+
+## 🤝 I'm Open To
+
+- Machine Learning Projects
+- Data Science Collaborations
+- Open Source Contributions
+- AI for Civil Engineering
+- Python Development Projects
+
+---
+
+## 📈 GitHub Focus
+
+I enjoy sharing projects that demonstrate:
+
+- Clean and readable code
+- Practical machine learning workflows
+- Data preprocessing techniques
+- Model comparison and evaluation
+- Engineering-focused AI applications
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email**
+
+**ochiengved@gmail.com**
+
+💼 **LinkedIn**
+
+**www.linkedin.com/in/vedline-ochieng-025146290/**
+
+---
+
+## 💡 Personal Philosophy
+
+> *"Engineering provides the foundation, while Artificial Intelligence creates smarter solutions. My goal is to combine both to solve real-world challenges."*
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+I'm always learning, building, and exploring new technologies. Feel free to explore my repositories, connect with me, or collaborate on exciting projects.
