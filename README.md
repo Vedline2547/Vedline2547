@@ -52,7 +52,6 @@ I believe the future of engineering lies in combining traditional engineering pr
 - Git
 - GitHub
 - VS Code
-- Jupyter Notebook
 
 ---
 
