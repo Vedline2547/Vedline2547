@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Civil Engineering Student • Machine Learning Enthusiast • Python Developer • Future AI Engineer
+    Civil Engineering Student • Machine Learning & AI Enthusiast • Python Developer • Future AI Engineer
   </em>
 </p>
 
@@ -10,133 +10,166 @@
 
 ## 🚀 About Me
 
-I'm a **Civil Engineering student** with a growing passion for **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy leveraging Python and modern machine learning techniques to solve practical engineering problems and uncover insights from data.
+I'm a **Civil Engineering student** passionate about using **Artificial Intelligence, Machine Learning, and Data Science** to solve real-world engineering problems.
 
-I believe the future of engineering lies in combining traditional engineering principles with intelligent, data-driven technologies. Through continuous learning and hands-on projects, I'm building expertise at the intersection of **Civil Engineering** and **Artificial Intelligence**.
+I enjoy building machine learning models, exploring deep learning, and applying data-driven techniques to practical applications. My goal is to bridge the gap between **Civil Engineering** and **Artificial Intelligence**, creating smarter and more efficient engineering solutions.
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 📈 Model Optimization
-- ⚙️ MLOps Fundamentals
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 📚 Natural Language Processing (NLP)
+* 👁️ Computer Vision
+* 📊 Data Science
+* 📈 Model Optimization
+* ⚙️ MLOps Fundamentals
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming Languages
 
-- Python
+* Python
 
-### 📚 Machine Learning & Data Science
+### 🤖 Machine Learning & AI
 
-- Scikit-learn
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
+* Scikit-learn
+* TensorFlow / Keras
+* PyTorch
+* NumPy
+* Pandas
+
+### 📊 Data Visualization
+
+* Matplotlib
+* Seaborn
 
 ### 🏗 Engineering Software
 
-- Autodesk Revit
-- Civil 3D
-- AutoCAD
+* Autodesk Revit
+* Civil 3D
+* AutoCAD
 
 ### 🛠 Development Tools
 
-- Git
-- GitHub
-- VS Code
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
 
 ---
 
 ## 🚀 What I'm Building
 
-I enjoy building projects involving:
+I enjoy working on projects involving:
 
-- 📊 Data Analysis & Visualization
-- 🧹 Data Cleaning & Feature Engineering
-- 🤖 Machine Learning Models
-- 🌲 Ensemble Learning Algorithms
-- 📈 Regression & Classification Models
-- 🎯 Hyperparameter Tuning
-- ⚖️ Imbalanced Data Handling (SMOTE)
-- 🖼 Computer Vision
-- 🏗 BIM & Structural Modelling
+* 📊 Data Analysis & Visualization
+* 🧹 Data Cleaning & Feature Engineering
+* 🤖 Machine Learning Models
+* 🧠 Deep Learning Models
+* 📝 Natural Language Processing (NLP)
+* 🌲 Ensemble Learning
+* 📈 Regression & Classification
+* 🎯 Hyperparameter Tuning
+* ⚖️ Imbalanced Data Handling (SMOTE)
+* 👁️ Computer Vision
+* 🏗 BIM & Structural Modelling
 
 ---
 
-## 📂 Featured Machine Learning Topics
+## 📚 Machine Learning Topics
 
-✔ Linear Regression
+### Supervised Learning
 
-✔ Logistic Regression
+* ✅ Linear Regression
+* ✅ Logistic Regression
+* ✅ K-Nearest Neighbors (KNN)
+* ✅ Decision Trees
+* ✅ Random Forest
+* ✅ Support Vector Machines (SVM)
+* ✅ Naive Bayes
 
-✔ K-Nearest Neighbors (KNN)
+### Ensemble Learning
 
-✔ Decision Trees
+* ✅ Gradient Boosting
+* ✅ XGBoost
+* ✅ LightGBM
+* ✅ CatBoost
+* ✅ Ensemble Learning
 
-✔ Random Forest
+### Deep Learning
 
-✔ Gradient Boosting
+* ✅ Artificial Neural Networks (ANN)
+* ✅ Simple RNN
+* ✅ LSTM
+* ✅ GRU
+* ✅ Seq2Seq Models
+* ✅ Word Embeddings (GloVe)
 
-✔ XGBoost
+### Data Science
 
-✔ LightGBM
+* ✅ Data Cleaning
+* ✅ Feature Engineering
+* ✅ Feature Selection
+* ✅ Data Preprocessing
+* ✅ Cross Validation
+* ✅ Model Evaluation
+* ✅ Hyperparameter Tuning
 
-✔ CatBoost
+---
 
-✔ Ensemble Learning
+## 📂 Featured Projects
 
-✔ Cross Validation
+Some of the projects you'll find in my repositories include:
 
-✔ Feature Selection
-
-✔ Feature Engineering
-
-✔ Hyperparameter Tuning
-
-✔ Model Evaluation
-
-✔ Data Preprocessing
+* 📈 Regression Models
+* 🤖 Classification Models
+* 🌲 Ensemble Learning Algorithms
+* 🧠 Deep Learning with TensorFlow & PyTorch
+* 📝 IMDb Sentiment Analysis using RNN, LSTM & GRU
+* 🌍 English–French Translation using Seq2Seq
+* 👁️ Computer Vision Projects
+* 📊 Data Analysis & Visualization
+* 🏗 Engineering & BIM Projects
 
 ---
 
 ## 🎯 Current Goals
 
-- Build real-world AI projects
-- Apply Machine Learning to Civil Engineering
-- Contribute to Open Source
-- Learn Deep Learning and Computer Vision
-- Strengthen my Data Science portfolio
-- Grow as an AI Engineer
+* Build impactful AI applications
+* Apply Machine Learning to Civil Engineering
+* Master Deep Learning
+* Explore Large Language Models (LLMs)
+* Contribute to Open Source
+* Strengthen my GitHub portfolio
+* Grow into an AI Engineer
 
 ---
 
-## 🤝 I'm Open To
+## 🤝 Open to Collaborate On
 
-- Machine Learning Projects
-- Data Science Collaborations
-- Open Source Contributions
-- AI for Civil Engineering
-- Python Development Projects
+* Machine Learning Projects
+* Data Science Projects
+* Deep Learning Applications
+* Open Source Contributions
+* AI for Civil Engineering
+* Python Development
 
 ---
 
 ## 📈 GitHub Focus
 
-I enjoy sharing projects that demonstrate:
+I enjoy sharing repositories that demonstrate:
 
-- Clean and readable code
-- Practical machine learning workflows
-- Data preprocessing techniques
-- Model comparison and evaluation
-- Engineering-focused AI applications
+* ✨ Clean, readable code
+* 📊 End-to-end ML workflows
+* 📈 Model evaluation & comparison
+* 🧹 Data preprocessing pipelines
+* 🧠 Deep learning implementations
+* 🏗 Engineering-focused AI solutions
 
 ---
 
@@ -144,20 +177,27 @@ I enjoy sharing projects that demonstrate:
 
 📧 **Email**
 
-**ochiengved@gmail.com**
+**[ochiengved@gmail.com](mailto:ochiengved@gmail.com)**
 
 💼 **LinkedIn**
 
-**www.linkedin.com/in/vedline-ochieng-025146290/**
+**https://www.linkedin.com/in/vedline-ochieng-025146290/**
 
 ---
 
 ## 💡 Personal Philosophy
 
-> *"Engineering provides the foundation, while Artificial Intelligence creates smarter solutions. My goal is to combine both to solve real-world challenges."*
+> *"Engineering builds the world. Artificial Intelligence makes it smarter. My mission is to combine both to create innovative solutions for real-world challenges."*
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## ⭐ Fun Fact
 
-I'm always learning, building, and exploring new technologies. Feel free to explore my repositories, connect with me, or collaborate on exciting projects.
+I enjoy transforming data into meaningful insights, building intelligent models, and continuously learning new technologies. Every project is an opportunity to improve my skills and create something impactful.
+
+---
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+Feel free to explore my repositories, leave a ⭐ if you find something useful, and don't hesitate to connect or collaborate. Let's build something amazing together!
+
