@@ -1,10 +1,14 @@
+```markdown
 <div align="center">
 
 # 👋 Hi, I'm **Vedline Ochieng**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Civil+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Python+Developer;Future+AI+Engineer;Building+AI+for+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Civil+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Python+Developer;Deep+Learning+Learner;Building+AI+for+Engineering" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Vedline2547&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Vedline2547?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Vedline2547?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -12,62 +16,51 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
 
 🎓 Civil Engineering Student
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Machine Learning & AI Enthusiast
 
 🐍 Python Developer
 
-🏗️ BIM & Structural Modelling Enthusiast
+🏗️ BIM & Structural Engineering Enthusiast
 
-📊 Data Science Explorer
-
-🧠 Deep Learning Learner
-
-🌍 My goal is to combine **Artificial Intelligence** with **Civil Engineering** to build smarter infrastructure and solve real-world engineering challenges.
-
-- 🔭 Currently building Machine Learning & Deep Learning projects
-- 🌱 Learning NLP, Computer Vision, LLMs & MLOps
-- 💡 Interested in AI for Structural Engineering
-- ⚡ Fun Fact: I love turning data into intelligent solutions.
+📊 Passionate about Data Science & Deep Learning
 
 ---
 
-# 🌌 Tech Universe
+I enjoy building intelligent systems that solve real-world engineering problems through **Artificial Intelligence**, **Machine Learning**, and **Python**.
+
+My journey began in **Civil Engineering**, where I developed an interest in structural analysis and BIM. Today, I'm expanding that foundation by learning modern AI techniques and exploring how intelligent systems can improve the future of engineering.
+
+My long-term goal is to bridge **Artificial Intelligence** and **Civil Engineering** to create smarter, safer, and more efficient infrastructure.
+
+---
+
+# 🌌 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-### 🤖 AI & Machine Learning
+### 🤖 Machine Learning & AI
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-</p>
-
-### 📊 Visualization
-
-<img src="https://skillicons.dev/icons?i=matplotlib"/>
-
-<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
 
-### 🏗 Engineering
+### 🏗️ Engineering
 
-<p>
 <img src="https://img.shields.io/badge/Revit-005BAC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Civil3D-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
-</p>
 
 ### ⚙️ Tools
 
@@ -77,114 +70,93 @@
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-```text
-🟢 Machine Learning          ████████████
-🟢 Deep Learning             ███████████
-🟢 Computer Vision           █████████
-🟢 NLP                       █████████
-🟢 Large Language Models     ████████
-🟢 MLOps                     ██████
-```
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Transformer Architectures
+- Large Language Model Fundamentals
+- AI for Structural Engineering
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ### 🤖 Machine Learning
 
-- Regression Models
-- Classification Models
+- Linear & Logistic Regression
+- Decision Trees & Random Forests
+- Gradient Boosting
+- XGBoost, LightGBM & CatBoost
 - Feature Engineering
 - Feature Selection
-- Hyperparameter Tuning
 - Model Evaluation
-- Ensemble Learning
-
-</td>
-
-<td width="50%">
 
 ### 🧠 Deep Learning
 
-- ANN
-- RNN
+- Artificial Neural Networks (ANN)
+- Recurrent Neural Networks (RNN)
 - LSTM
 - GRU
-- Seq2Seq
-- Attention Mechanism
-- GloVe Embeddings
+- Sentiment Analysis
+- GloVe Word Embeddings
+- Attention Mechanisms
+- Transformer Fundamentals
 
-</td>
+### 📊 Data Science
 
-</tr>
-</table>
-
----
-
-# 🏗 Engineering + AI
-
-### Areas I Enjoy Building
-
-🏗 Structural Engineering AI
-
-📊 Predictive Analytics
-
-🤖 Intelligent Engineering Systems
-
-📈 Data Analysis
-
-🧠 Deep Learning Applications
-
-👁 Computer Vision
-
-📝 Natural Language Processing
-
-🌍 Smart Infrastructure
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Feature Scaling
+- Model Comparison
 
 ---
 
-# 🎯 2026 Goals
+# 🏗️ AI + Civil Engineering
 
-- 🚀 Master Deep Learning
-- 🤖 Build LLM Applications
-- 🏗 Apply AI to Civil Engineering
-- 🌎 Contribute to Open Source
-- 💼 Build an Outstanding Portfolio
-- 📚 Publish More Projects
-- ⭐ Reach 100+ GitHub Repositories
+I enjoy exploring how Artificial Intelligence can improve engineering through:
+
+🏢 Structural Health Monitoring
+
+🌉 Infrastructure Analytics
+
+📊 Predictive Engineering
+
+🤖 Intelligent Design Systems
+
+📈 Structural Data Analysis
+
+👁️ Computer Vision for Construction
+
+🧠 AI-assisted Engineering Workflows
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedline2547&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Vedline2547&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -194,9 +166,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedline2547&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+# 🎯 Goals
+
+- 🚀 Continue building AI & Machine Learning projects
+- 📚 Strengthen my Deep Learning knowledge
+- 🤖 Build practical NLP applications
+- 🏗️ Apply AI to Civil Engineering problems
+- 🌍 Contribute to Open Source
+- ⭐ Grow a strong GitHub portfolio
 
 ---
 
@@ -209,33 +192,22 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vedline-ochieng-025146290/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 Philosophy
+# 💡 Quote
 
 <div align="center">
 
-> ## *"Engineering builds the world. Artificial Intelligence makes it smarter."*
->
-> ### **My mission is to combine both to create innovative solutions that shape the future.**
+> ### *"Engineering builds the world. Artificial Intelligence makes it smarter."*
+
+### Thanks for visiting my profile! ⭐
+
+If you enjoy my work, feel free to explore my repositories, leave a ⭐, or connect with me.
 
 </div>
-
----
-
-<div align="center">
-
-## 💙 Thanks for stopping by!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-⭐ **If you like my work, consider starring my repositories!**
-
-🚀 **Let's build the future together.**
-
-</div>
+```
