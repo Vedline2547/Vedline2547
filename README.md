@@ -78,6 +78,7 @@ My long-term goal is to bridge **Artificial Intelligence** and **Civil Engineeri
 - Transformer Architectures
 - Large Language Model Fundamentals
 - AI for Structural Engineering
+-databases(sql)
 
 ---
 
