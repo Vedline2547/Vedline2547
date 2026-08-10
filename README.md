@@ -1,214 +1,320 @@
-```markdown
 <div align="center">
 
-# 👋 Hi, I'm **Vedline Ochieng**
+# 👋 Hey, I'm **Vedline Ochieng**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Civil+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;Python+Developer;Deep+Learning+Learner;Building+AI+for+Engineering" alt="Typing SVG"/>
+### 🧠 AI & Machine Learning Enthusiast | 🏗️ Civil Engineering Student | 🐍 Python Developer
 
-<img src="https://komarev.com/ghpvc/?username=Vedline2547&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+with+AI+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning;Exploring+Transformers+%26+LLMs;AI+for+Engineering+%F0%9F%8F%97%EF%B8%8F;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
-<img src="https://img.shields.io/github/followers/Vedline2547?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Vedline2547?style=for-the-badge&logo=github"/>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vedline2547-181717?style=for-the-badge\&logo=github)](https://github.com/Vedline2547)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)](https://www.tensorflow.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🧠 About Me
 
-<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAd/coding.gif">
+I'm a **Civil Engineering student with a growing focus on Artificial Intelligence, Machine Learning, and Data Science**.
 
-🎓 Civil Engineering Student
+I'm interested in understanding how intelligent systems work — from the mathematics behind machine learning algorithms to modern **Deep Learning, Transformers, and Large Language Models**.
 
-🤖 Machine Learning & AI Enthusiast
+My long-term goal is to combine **AI + Engineering** to build smarter systems that can solve real-world engineering and infrastructure problems.
 
-🐍 Python Developer
+```text
+Civil Engineering
+        +
+Artificial Intelligence
+        ↓
+Intelligent Engineering Systems
+```
 
-🏗️ BIM & Structural Engineering Enthusiast
-
-📊 Passionate about Data Science & Deep Learning
-
----
-
-I enjoy building intelligent systems that solve real-world engineering problems through **Artificial Intelligence**, **Machine Learning**, and **Python**.
-
-My journey began in **Civil Engineering**, where I developed an interest in structural analysis and BIM. Today, I'm expanding that foundation by learning modern AI techniques and exploring how intelligent systems can improve the future of engineering.
-
-My long-term goal is to bridge **Artificial Intelligence** and **Civil Engineering** to create smarter, safer, and more efficient infrastructure.
+I'm currently building my knowledge by implementing concepts from scratch, training machine learning models, experimenting with deep learning architectures, and working with modern Transformer-based models.
 
 ---
 
-# 🌌 Tech Stack
+## 🤖 My AI Journey
 
-<div align="center">
+I don't just want to use AI APIs.
 
-### 👨‍💻 Programming
+I want to understand **what happens underneath the hood.**
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### 🔬 Currently Exploring
 
-### 🤖 Machine Learning & AI
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-### 🏗️ Engineering
-
-<img src="https://img.shields.io/badge/Revit-005BAC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Civil3D-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</div>
+* 🧠 Machine Learning
+* 🤖 Deep Learning
+* 🔤 Natural Language Processing
+* 🧩 Transformers
+* ⚡ Attention Mechanisms
+* 🗣️ Large Language Models
+* 👁️ Computer Vision
+* 📊 Data Science
+* 🚀 Model Optimization
+* ⚙️ MLOps
+* 🏗️ AI for Engineering
 
 ---
 
-# 🌱 Currently Learning
+## 🧪 What I've Been Building
 
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Transformer Architectures
-- Large Language Model Fundamentals
-- AI for Structural Engineering
--databases(sql)
+My repositories document my journey from **fundamentals → models → modern AI systems**.
 
----
+### 📊 Machine Learning
 
-# 🚀 Featured Projects
-
-### 🤖 Machine Learning
-
-- Linear & Logistic Regression
-- Decision Trees & Random Forests
-- Gradient Boosting
-- XGBoost, LightGBM & CatBoost
-- Feature Engineering
-- Feature Selection
-- Model Evaluation
+* Linear & Logistic Regression
+* Ridge & Lasso Regression
+* k-Nearest Neighbors
+* Random Forest
+* Gradient Boosting
+* Feature Selection
+* Data Preprocessing
+* Encoding Techniques
+* Model Evaluation
+* Classification & Regression
 
 ### 🧠 Deep Learning
 
-- Artificial Neural Networks (ANN)
-- Recurrent Neural Networks (RNN)
-- LSTM
-- GRU
-- Sentiment Analysis
-- GloVe Word Embeddings
-- Attention Mechanisms
-- Transformer Fundamentals
+* Neural Networks
+* Embeddings
+* RNNs
+* LSTMs
+* GRUs
+* Training & Evaluation
+* Representation Learning
+
+### 🔥 Transformers & NLP
+
+Currently diving deeper into the architecture behind modern NLP systems.
+
+* Attention Mechanisms
+* Scaled Dot-Product Attention
+* Positional Encoding
+* Transformer Encoders
+* BERT
+* RoBERTa
+* Hugging Face Transformers
+* Text Classification
+* Fine-Tuning Pre-trained Models
+
+Some of my recent work includes **fine-tuning BERT and RoBERTa on text classification datasets** and implementing Transformer concepts to understand how they work internally.
+
+---
+
+## 🏗️ AI + Civil Engineering
+
+One of my biggest interests is the intersection between **Artificial Intelligence and Civil Engineering**.
+
+Traditional engineering already produces huge amounts of data — structural information, construction data, geospatial information, sensor measurements, drawings, models, and project records.
+
+I want to explore how AI can turn that data into useful engineering intelligence.
+
+### 🚧 Areas I'm Interested In
+
+* 🏢 Structural Engineering + AI
+* 🏗️ Construction Analytics
+* 📐 BIM + AI
+* 🗺️ Computer Vision for Infrastructure
+* 🔍 Structural Health Monitoring
+* 📊 Predictive Modeling
+* 🏙️ Smart Cities
+* 🌉 Infrastructure Monitoring
+* ⚙️ Engineering Optimization
+* 🤖 Intelligent Design Systems
+
+My goal isn't to replace engineering knowledge with AI.
+
+**It's to combine both.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 
 ### 📊 Data Science
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Scaling
-- Model Comparison
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
+
+### 🏗️ Engineering & Design
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square\&logo=autodesk\&logoColor=white)
+![Revit](https://img.shields.io/badge/Revit-186BFF?style=flat-square\&logo=autodesk\&logoColor=white)
+![Civil 3D](https://img.shields.io/badge/Civil%203D-186BFF?style=flat-square\&logo=autodesk\&logoColor=white)
 
 ---
 
-# 🏗️ AI + Civil Engineering
+## 📚 My Learning Path
 
-I enjoy exploring how Artificial Intelligence can improve engineering through:
-
-🏢 Structural Health Monitoring
-
-🌉 Infrastructure Analytics
-
-📊 Predictive Engineering
-
-🤖 Intelligent Design Systems
-
-📈 Structural Data Analysis
-
-👁️ Computer Vision for Construction
-
-🧠 AI-assisted Engineering Workflows
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedline2547&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vedline2547&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedline2547&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Goals
-
-- 🚀 Continue building AI & Machine Learning projects
-- 📚 Strengthen my Deep Learning knowledge
-- 🤖 Build practical NLP applications
-- 🏗️ Apply AI to Civil Engineering problems
-- 🌍 Contribute to Open Source
-- ⭐ Grow a strong GitHub portfolio
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:ochiengved@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vedline-ochieng-025146290/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> ### *"Engineering builds the world. Artificial Intelligence makes it smarter."*
-
-### Thanks for visiting my profile! ⭐
-
-If you enjoy my work, feel free to explore my repositories, leave a ⭐, or connect with me.
-
-</div>
+```text
+Python
+  │
+  ├── NumPy / Pandas
+  │
+  ├── Mathematics & Statistics
+  │
+  ├── Machine Learning
+  │     ├── Regression
+  │     ├── Classification
+  │     ├── Ensemble Methods
+  │     └── Feature Engineering
+  │
+  ├── Deep Learning
+  │     ├── Neural Networks
+  │     ├── CNNs
+  │     └── RNNs / LSTMs / GRUs
+  │
+  ├── NLP
+  │     ├── Embeddings
+  │     ├── Attention
+  │     └── Transformers
+  │
+  ├── Modern AI
+  │     ├── BERT
+  │     ├── RoBERTa
+  │     ├── LLMs
+  │     └── Fine-Tuning
+  │
+  └── AI Engineering
+        ├── Model Optimization
+        ├── MLOps
+        └── AI + Civil Engineering
 ```
+
+---
+
+## 🚀 Current Focus
+
+```python
+current_focus = {
+    "AI": [
+        "Machine Learning",
+        "Deep Learning",
+        "Transformers",
+        "NLP",
+        "LLMs"
+    ],
+
+    "engineering": [
+        "Civil Engineering",
+        "BIM",
+        "Structural Engineering",
+        "AI for Infrastructure"
+    ],
+
+    "next": [
+        "Computer Vision",
+        "MLOps",
+        "Model Deployment",
+        "Advanced LLM Applications"
+    ]
+}
+```
+
+---
+
+## 💡 Philosophy
+
+> **Learn the fundamentals. Build the models. Break things. Understand why. Build again.**
+
+I'm particularly interested in moving beyond simply calling pre-trained models and understanding:
+
+**How does the model learn?**
+
+**Why does attention work?**
+
+**What happens during fine-tuning?**
+
+**How can models be optimized?**
+
+**How can AI solve real engineering problems?**
+
+That's the direction I'm taking with my projects.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔭 What's Next?
+
+I'm working toward becoming an **AI Engineer** capable of taking an idea from:
+
+```text
+Problem
+   ↓
+Data
+   ↓
+Analysis
+   ↓
+Model
+   ↓
+Training
+   ↓
+Evaluation
+   ↓
+Optimization
+   ↓
+Deployment
+   ↓
+Real-World Impact
+```
+
+And eventually applying that workflow to **engineering, infrastructure, and other real-world problems**.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people working on:
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Data Science
+* Civil Engineering
+* BIM
+* Engineering Technology
+* AI Research
+* Open Source
+
+If you're interested in **AI + Engineering**, I'd especially love to connect.
+
+---
+
+<div align="center">
+
+### 🧠 Building Intelligence. 🏗️ Engineering the Future.
+
+**Thanks for visiting my profile! 🚀**
+
+⭐ Check out my repositories and follow my AI journey.
+
+</div>
+
