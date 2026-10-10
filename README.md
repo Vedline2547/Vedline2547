@@ -1,291 +1,184 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm **Vedline Ochieng**
+# Vedline Ochieng
 
-### 🏗️ Civil Engineering Student • 🤖 ML Enthusiast • 🐍 Python Developer • 🚀 Future AI Engineer
+### Civil Engineering Student | Machine Learning & AI Enthusiast | Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+with+Python+%F0%9F%90%8D;Learning+Machine+Learning+%F0%9F%A4%96;Exploring+AI+%26+Deep+Learning+%F0%9F%A7%A0;Designing+with+Revit+%26+Robot+%F0%9F%8F%97%EF%B8%8F;Civil+Engineering+%C3%97+Artificial+Intelligence" alt="Typing SVG" />
+**Bridging Civil Engineering, Structural Analysis, and Artificial Intelligence.**
+
+[GitHub](https://github.com/Vedline2547) · [LinkedIn](https://www.linkedin.com/in/vedline-ochieng-025146290/)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00A6D6&center=true&vCenter=true&width=650&lines=Building+Machine+Learning+Projects;Exploring+Deep+Learning+and+NLP;Structural+Analysis+and+BIM;Engineering+with+Python+and+AI" alt="Areas of interest" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Civil Engineering student** passionate about technology, structural engineering, and artificial intelligence.
+I'm a Civil Engineering student developing skills in structural engineering, BIM, Python programming, and artificial intelligence.
 
-I'm building my skills across two worlds:
+My interests span two complementary fields: **engineering design and intelligent software systems**. I enjoy building machine learning projects, exploring deep learning architectures, and learning how automation can improve engineering workflows.
+
+My long-term goal is to apply AI, data science, and automation to practical engineering challenges.
+
+- 🏗️ **Engineering:** Structural modelling, reinforced concrete design, BIM, and structural analysis.
+- 🐍 **Programming:** Python and machine learning development.
+- 🤖 **AI & ML:** Classical machine learning, deep learning, computer vision, and NLP.
+- ⚙️ **Automation:** Exploring reproducible ML workflows, application deployment, and engineering automation.
+
+## Technical Skills
+
+### Programming and Data Science
+
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode" alt="Programming and development tools" />
+
+- **Programming:** Python
+- **Data analysis:** NumPy, Pandas, Matplotlib, Seaborn
+- **Machine learning:** Scikit-learn, XGBoost, LightGBM, CatBoost
+- **Deep learning:** TensorFlow, Keras, PyTorch
+- **NLP:** Hugging Face Transformers, BERT, RoBERTa
+- **Development and deployment:** Git, GitHub, VS Code, Google Colab, Flask, Streamlit, Docker fundamentals
+
+### Civil Engineering and BIM
+
+<img src="https://img.shields.io/badge/Autodesk_Revit-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Revit" />
+<img src="https://img.shields.io/badge/Robot_Structural_Analysis-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Robot Structural Analysis" />
+<img src="https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/Civil_3D-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Civil 3D" />
+
+Areas of practice and learning:
+
+- Structural and analytical modelling
+- Reinforced concrete design
+- Slab, beam, column, and isolated footing design
+- Reinforcement modelling and detailing
+- BIM documentation and drawing production
+
+## Featured Project Areas
+
+My repositories cover practical applications of machine learning, deep learning, and natural language processing.
+
+| Project | Description | Technologies |
+|---|---|---|
+| **Telco Customer Churn Prediction** | Predicting customer churn using supervised learning and feature engineering. | Python, Pandas, Scikit-learn |
+| **Credit Card Fraud Detection** | Developing a classification model for identifying potentially fraudulent transactions. | Python, Random Forest, Scikit-learn |
+| **Fake News Classification** | Classifying news articles using text features and a machine learning model. | TF-IDF, Naive Bayes |
+| **Fake Product Review Detection** | Analysing review text to distinguish genuine and computer-generated reviews. | TF-IDF, Logistic Regression |
+| **Named Entity Recognition** | Extracting entities such as organizations, people, and locations from text. | spaCy, Python |
+| **Movie Recommendation System** | Recommending movies based on content similarity. | TF-IDF, Cosine Similarity |
+| **Image Classification** | Exploring CNNs and transfer learning for image recognition. | TensorFlow, Keras |
+| **Transformer & NLP Experiments** | Exploring text classification, sequence modelling, and pretrained language models. | Hugging Face, BERT, RoBERTa |
+
+**Explore my repositories:** [github.com/Vedline2547](https://github.com/Vedline2547)
+
+*To make each project title clickable, replace it with the corresponding repository URL once the exact repository names are confirmed.*
+
+## Machine Learning and AI
+
+I am building practical knowledge across the following areas:
+
+**Classical Machine Learning**
+- Regression and classification
+- Decision Trees and Random Forests
+- Gradient Boosting, XGBoost, LightGBM, and CatBoost
+- Support Vector Machines and K-Nearest Neighbors
+- Feature selection, dimensionality reduction, and cross-validation
+- Imbalanced classification and model evaluation
+
+**Deep Learning**
+- Neural networks and autoencoders
+- Convolutional Neural Networks (CNNs)
+- RNNs, LSTMs, and GRUs
+- Transfer learning with pretrained models
+
+**Natural Language Processing**
+- Text preprocessing and tokenization
+- TF-IDF and word representations
+- Text classification and summarization
+- Attention and Transformer architectures
+- BERT and RoBERTa
+
+**Model Development and Deployment**
+- Building applications with Flask and Streamlit
+- Working with Git and GitHub
+- Learning Docker and containerized workflows
+- Exploring cloud deployment and MLOps fundamentals
+
+## Civil Engineering × Artificial Intelligence
+
+I am particularly interested in applying computational techniques to engineering problems.
+
+Potential areas of exploration include:
+
+- **Structural engineering:** Data-driven analysis and design optimization.
+- **BIM automation:** Automating repetitive modelling and documentation tasks.
+- **Construction technology:** Computer vision for construction monitoring and inspection.
+- **Engineering analytics:** Using data to identify patterns and support decisions.
+- **Predictive modelling:** Investigating ML applications in materials, structures, and project performance.
+
+My current focus is on strengthening my engineering fundamentals and machine learning skills before developing more specialized engineering-AI applications.
+
+## Structural Modelling Workflow
+
+My experience with Revit and Robot Structural Analysis has introduced me to a connected structural modelling and design workflow.
 
 ```text
-        🏗️ CIVIL ENGINEERING
-                │
-        Structural Design
-                │
-        BIM & Modelling
-                │
-        Structural Analysis
-                │
-                ▼
-        ┌─────────────────┐
-        │       DATA      │
-        └─────────────────┘
-                │
-                ▼
-        🤖 ARTIFICIAL INTELLIGENCE
-                │
-        Machine Learning
-                │
-        Deep Learning
-                │
-        Automation
-                │
-                ▼
-        🚀 SMART ENGINEERING
-```
-
-My long-term goal is to combine **Civil Engineering + AI + Automation** to develop smarter engineering solutions.
-
----
-
-## 🏗️ Engineering
-
-### Structural Analysis & Design
-
-I have been developing practical experience with:
-
-* Structural modelling
-* Analytical modelling
-* Reinforced concrete design
-* Slab design
-* Beam design
-* Column design
-* Isolated footing design
-* Reinforcement detailing
-* Structural documentation
-
-### Autodesk Software
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Autodesk%20Revit-186BFF?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robot%20Structural%20Analysis-186BFF?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Civil%203D-186BFF?style=for-the-badge&logo=autodesk&logoColor=white"/>
-
-</p>
-
-### Revit Workflow
-
-```text
-Architectural Model
+Architectural Reference
         ↓
-Structural Model
+Structural Modelling in Revit
         ↓
-Analytical Model
+Analytical Model Preparation
         ↓
 Robot Structural Analysis
         ↓
-Structural Analysis & Design
+Structural Analysis and Design
         ↓
-Reinforcement Design
+Reinforcement Modelling in Revit
         ↓
-Rebar Modelling in Revit
+Drawings and Documentation
         ↓
-Sheets & Documentation
-        ↓
-        PDF
+PDF Deliverables
 ```
 
----
+## Currently Learning
 
-## 🤖 AI & Machine Learning
+- Advanced machine learning techniques
+- Deep learning and computer vision
+- NLP and Transformer architectures
+- Model deployment using Flask and Streamlit
+- Docker and reproducible development environments
+- MLOps and cloud-based AI workflows
+- Structural analysis and BIM automation
 
-I'm actively developing my knowledge in:
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Transformers
-* Transfer Learning
-* Data Science
-* Model Optimization
-* MLOps
-
-### Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,git,github,vscode,docker" />
-
-</p>
-
-### AI / NLP
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RoBERTa-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Transformers-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🧠 What I've Been Learning
-
-```text
-Machine Learning
-├── Regression
-├── Classification
-├── Decision Trees
-├── Random Forest
-├── Gradient Boosting
-├── XGBoost
-├── LightGBM
-├── CatBoost
-└── Feature Selection
-
-Deep Learning
-├── Neural Networks
-├── CNNs
-├── RNNs
-├── LSTMs
-├── GRUs
-└── Transfer Learning
-
-NLP
-├── Tokenization
-├── Word Embeddings
-├── Attention
-├── Transformers
-├── BERT
-├── RoBERTa
-└── Text Summarization
-```
-
----
-
-## 🔬 Engineering × AI
-
-One of the areas I'm most interested in is the intersection between **engineering and artificial intelligence**.
-
-```text
-                 ┌──────────────────┐
-                 │ CIVIL ENGINEERING│
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ STRUCTURAL DATA  │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │ MACHINE LEARNING │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │   OPTIMIZATION   │
-                 └────────┬─────────┘
-                          │
-                          ▼
-                 ┌──────────────────┐
-                 │SMART ENGINEERING │
-                 └──────────────────┘
-```
-
-Areas I would like to explore further:
-
-* 🏗️ AI-assisted structural design
-* 📊 Engineering data analysis
-* 🤖 Structural analysis automation
-* 👁️ Computer vision for construction
-* 📐 Design optimization
-* 🏢 BIM automation
-* 🔮 Predictive engineering models
-
----
-
-## 📚 Currently Learning
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=00C2FF&width=600&lines=Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing;Transformers;MLOps;Structural+Analysis;BIM+%26+Automation" alt="Currently Learning"/>
-
----
-
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=default&hide_border=true" alt="Most-used languages" height="165" />
 
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vedline2547&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Vedline2547&theme=default&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
----
+*Statistics depend on the availability of the external services and the repositories they can access.*
 
-## 🛠️ Tools I Use
+## Connect With Me
 
-| Category             | Technologies                                        |
-| -------------------- | --------------------------------------------------- |
-| **Programming**      | Python                                              |
-| **Machine Learning** | Scikit-learn, XGBoost, LightGBM, CatBoost           |
-| **Deep Learning**    | TensorFlow, Keras, PyTorch                          |
-| **NLP**              | Hugging Face, BERT, RoBERTa                         |
-| **Data Science**     | NumPy, Pandas, Matplotlib, Seaborn                  |
-| **Engineering**      | Revit, Robot Structural Analysis, AutoCAD, Civil 3D |
-| **Development**      | Git, GitHub, VS Code, Google Colab                  |
-
----
-
-## 🚀 My Direction
-
-```text
-Civil Engineering
-       +
-Structural Analysis
-       +
-BIM
-       +
-Python
-       +
-Machine Learning
-       +
-Artificial Intelligence
-       ↓
-   🚀 AI-DRIVEN
-   ENGINEERING
-```
-
-I'm working toward becoming an engineer who understands both **how structures are designed** and **how intelligent systems are built**.
+- **GitHub:** [Vedline2547](https://github.com/Vedline2547)
+- **LinkedIn:** [Vedline Ochieng](https://www.linkedin.com/in/vedline-ochieng-025146290/)
 
 ---
 
 <div align="center">
 
-### ⚡ Keep Learning. Keep Building. Keep Engineering.
+**Keep Learning. Keep Building. Keep Engineering.**
 
-<img src="https://komarev.com/ghpvc/?username=Vedline2547&label=Profile%20Views&color=00C2FF&style=flat" />
-
-<br><br>
-
-**Civil Engineering × AI**
+*Civil Engineering × Artificial Intelligence*
 
 </div>
-
 
 
 
