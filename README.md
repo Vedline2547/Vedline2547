@@ -1,127 +1,187 @@
- <div align="center">
-
 # Vedline Ochieng
 
-### Civil Engineering Student | Machine Learning & AI Enthusiast | Python Developer
+### Civil Engineering Student | Machine Learning Engineer | AI Developer
 
-**Bridging Civil Engineering, Structural Analysis, and Artificial Intelligence.**
+**Building intelligent systems at the intersection of Engineering, Machine Learning, and Artificial Intelligence.**
 
-[GitHub](https://github.com/Vedline2547) · [LinkedIn](https://www.linkedin.com/in/vedline-ochieng-025146290/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vedline2547-181717?style=for-the-badge&logo=github)](https://github.com/Vedline2547)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedline-ochieng-025146290/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00A6D6&center=true&vCenter=true&width=650&lines=Building+Machine+Learning+Projects;Exploring+Deep+Learning+and+NLP;Structural+Analysis+and+BIM;Engineering+with+Python+and+AI" alt="Areas of interest" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00A6D6&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineering;Building+LLM+and+RAG+Applications;Developing+AI+Agents+with+LangChain;Deep+Learning+%26+Natural+Language+Processing;Civil+Engineering+%C3%97+Artificial+Intelligence" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Civil Engineering student developing skills in structural engineering, BIM, Python programming, and artificial intelligence.
+I'm a Civil Engineering student at **Multimedia University of Kenya**, developing expertise in Machine Learning, Artificial Intelligence, Python development, and structural engineering.
 
-My interests span two complementary fields: **engineering design and intelligent software systems**. I enjoy building machine learning projects, exploring deep learning architectures, and learning how automation can improve engineering workflows.
+My interests combine two complementary disciplines: **engineering and intelligent software systems**.
 
-My long-term goal is to apply AI, data science, and automation to practical engineering challenges.
+I enjoy building practical machine learning applications, experimenting with large language models, developing AI-powered tools, and exploring how automation can solve real-world problems.
 
-- 🏗️ **Engineering:** Structural modelling, reinforced concrete design, BIM, and structural analysis.
-- 🐍 **Programming:** Python and machine learning development.
-- 🤖 **AI & ML:** Classical machine learning, deep learning, computer vision, and NLP.
-- ⚙️ **Automation:** Exploring reproducible ML workflows, application deployment, and engineering automation.
+My technical journey includes working with traditional machine learning algorithms, deep learning architectures, NLP, LLM applications, Retrieval-Augmented Generation (RAG), and AI agents.
 
-## Technical Skills
+**My long-term vision is to build impactful AI technologies that solve practical problems across Africa.**
 
-### Programming and Data Science
+- 🐍 **Programming:** Python, data structures, data analysis, and software development.
+- 🤖 **Machine Learning:** Supervised learning, classification, regression, feature engineering, and model evaluation.
+- 🧠 **Deep Learning:** Neural networks, CNNs, transfer learning, and NLP.
+- 💬 **LLMs & Generative AI:** LangChain, LangGraph, RAG, embeddings, and AI agents.
+- ⚙️ **AI Engineering:** Application development, model deployment, and workflow automation.
+- 🏗️ **Civil Engineering:** Structural analysis, reinforced concrete design, and BIM.
 
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,git,github,vscode" alt="Programming and development tools" />
+---
 
-- **Programming:** Python
-- **Data analysis:** NumPy, Pandas, Matplotlib, Seaborn
-- **Machine learning:** Scikit-learn, XGBoost, LightGBM, CatBoost
-- **Deep learning:** TensorFlow, Keras, PyTorch
-- **NLP:** Hugging Face Transformers, BERT, RoBERTa
-- **Development and deployment:** Git, GitHub, VS Code, Google Colab, Flask, Streamlit, Docker fundamentals
+## 🛠️ Technical Skills
 
-### Civil Engineering and BIM
+### Programming & Data Science
 
-<img src="https://img.shields.io/badge/Autodesk_Revit-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Revit" />
-<img src="https://img.shields.io/badge/Robot_Structural_Analysis-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Robot Structural Analysis" />
-<img src="https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/Civil_3D-186BFF?style=flat-square&logo=autodesk&logoColor=white" alt="Civil 3D" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-Areas of practice and learning:
+### Machine Learning & Deep Learning
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+
+- Regression and classification
+- Decision Trees, Random Forests, and Gradient Boosting
+- XGBoost, LightGBM, and CatBoost
+- Feature engineering and selection
+- Cross-validation and hyperparameter tuning
+- Model evaluation and optimization
+- CNNs and transfer learning
+
+### Generative AI, LLMs & NLP
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square)
+
+- Large Language Model (LLM) applications
+- Retrieval-Augmented Generation (RAG)
+- LangChain and LangGraph
+- AI agents and tool integration
+- Embeddings and vector search
+- Prompt engineering
+- NLP and text classification
+- Transformers, BERT, and RoBERTa
+- AI evaluation and experimentation
+
+### Application Development & Deployment
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+- Flask and Streamlit applications
+- REST API fundamentals
+- Git and GitHub version control
+- AWS EC2 deployment
+- Docker fundamentals
+- Model serving and application integration
+- MLOps fundamentals
+
+### Civil Engineering & BIM
+
+![Revit](https://img.shields.io/badge/Autodesk_Revit-186BFF?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square)
+![Civil 3D](https://img.shields.io/badge/Civil_3D-186BFF?style=flat-square)
+![Robot](https://img.shields.io/badge/Robot_Structural_Analysis-186BFF?style=flat-square)
 
 - Structural and analytical modelling
 - Reinforced concrete design
-- Slab, beam, column, and isolated footing design
+- Slab, beam, column, and footing design
 - Reinforcement modelling and detailing
 - BIM documentation and drawing production
 
-## Featured Project Areas
+---
 
-My repositories cover practical applications of machine learning, deep learning, and natural language processing.
+## 🚀 Featured Projects
+
+Here are some areas of practical work across Machine Learning, Deep Learning, NLP, and Generative AI.
 
 | Project | Description | Technologies |
 |---|---|---|
-| **Telco Customer Churn Prediction** | Predicting customer churn using supervised learning and feature engineering. | Python, Pandas, Scikit-learn |
-| **Credit Card Fraud Detection** | Developing a classification model for identifying potentially fraudulent transactions. | Python, Random Forest, Scikit-learn |
-| **Fake News Classification** | Classifying news articles using text features and a machine learning model. | TF-IDF, Naive Bayes |
-| **Fake Product Review Detection** | Analysing review text to distinguish genuine and computer-generated reviews. | TF-IDF, Logistic Regression |
-| **Named Entity Recognition** | Extracting entities such as organizations, people, and locations from text. | spaCy, Python |
-| **Movie Recommendation System** | Recommending movies based on content similarity. | TF-IDF, Cosine Similarity |
-| **Image Classification** | Exploring CNNs and transfer learning for image recognition. | TensorFlow, Keras |
-| **Transformer & NLP Experiments** | Exploring text classification, sequence modelling, and pretrained language models. | Hugging Face, BERT, RoBERTa |
+| **AI Career Coach** | AI-powered application for analysing resumes and providing career-related feedback. | Python, LangChain, LLMs, Flask |
+| **RAG Research Assistant** | Document-based question-answering using retrieval-augmented generation. | Python, LangChain, Embeddings, Vector Search |
+| **Breast Cancer Prediction** | Machine learning classification application with a deployed Flask backend. | Python, Scikit-learn, Random Forest, Flask, AWS |
+| **X-ray Image Classification** | CNN-based image classification and transfer learning for pneumonia detection. | TensorFlow, Keras, VGG16 |
+| **HR Attrition Prediction** | Predicting employee attrition using gradient boosting. | Python, XGBoost, Pandas |
+| **Heart Disease Prediction** | Predicting heart disease using supervised machine learning. | Scikit-learn, Logistic Regression, Random Forest |
+| **Movie Recommendation System** | Building recommendation models using collaborative filtering. | Python, Surprise, SVD |
+| **Fake News Classification** | Classifying news articles using NLP and text representations. | TF-IDF, Naive Bayes |
+| **Named Entity Recognition** | Extracting people, organizations, and locations from text. | Python, spaCy |
+| **Time Series Forecasting** | Exploring ARIMA, Prophet, and forecasting techniques. | Python, Pandas, Statsmodels, Prophet |
 
-**Explore my repositories:** [github.com/Vedline2547](https://github.com/Vedline2547)
+**Explore all my projects:** [github.com/Vedline2547](https://github.com/Vedline2547)
 
-*To make each project title clickable, replace it with the corresponding repository URL once the exact repository names are confirmed.*
+---
 
-## Machine Learning and AI
+## 🧠 Generative AI & AI Engineering
 
-I am building practical knowledge across the following areas:
+I'm particularly interested in moving beyond conventional predictive models towards building intelligent applications powered by LLMs.
 
-**Classical Machine Learning**
-- Regression and classification
-- Decision Trees and Random Forests
-- Gradient Boosting, XGBoost, LightGBM, and CatBoost
-- Support Vector Machines and K-Nearest Neighbors
-- Feature selection, dimensionality reduction, and cross-validation
-- Imbalanced classification and model evaluation
+My practical exploration includes:
 
-**Deep Learning**
-- Neural networks and autoencoders
-- Convolutional Neural Networks (CNNs)
-- RNNs, LSTMs, and GRUs
-- Transfer learning with pretrained models
+**LLM Application Development**
+- Integrating locally hosted and externally provided language models.
+- Building applications with LangChain.
+- Prompt templates and LLM chains.
+- Structured outputs and model interactions.
 
-**Natural Language Processing**
-- Text preprocessing and tokenization
-- TF-IDF and word representations
-- Text classification and summarization
-- Attention and Transformer architectures
-- BERT and RoBERTa
+**Retrieval-Augmented Generation**
+- Document loading and preprocessing.
+- Text chunking and embedding generation.
+- Vector databases and similarity search.
+- Context retrieval and question answering.
+- Evaluating retrieval and generation quality.
 
-**Model Development and Deployment**
-- Building applications with Flask and Streamlit
-- Working with Git and GitHub
-- Learning Docker and containerized workflows
-- Exploring cloud deployment and MLOps fundamentals
+**AI Agents & Tool Calling**
+- Building agents with LangChain and LangGraph.
+- Integrating external and custom tools.
+- Structured tool calling.
+- Stateful workflows and conversational memory.
+- Multi-step agent execution.
 
-## Civil Engineering × Artificial Intelligence
+**AI Evaluation**
+- Experimenting with LLM response evaluation.
+- Assessing factual correctness and faithfulness.
+- Exploring retrieval quality and context relevance.
+- Working with NLP evaluation metrics.
 
-I am particularly interested in applying computational techniques to engineering problems.
+---
+
+## 🏗️ Civil Engineering × Artificial Intelligence
+
+One of my long-term interests is applying computational intelligence to engineering challenges.
 
 Potential areas of exploration include:
 
-- **Structural engineering:** Data-driven analysis and design optimization.
-- **BIM automation:** Automating repetitive modelling and documentation tasks.
-- **Construction technology:** Computer vision for construction monitoring and inspection.
-- **Engineering analytics:** Using data to identify patterns and support decisions.
-- **Predictive modelling:** Investigating ML applications in materials, structures, and project performance.
+- **Structural Engineering:** Machine learning for structural performance prediction and design optimization.
+- **BIM Automation:** Automating repetitive modelling and documentation workflows.
+- **Construction Technology:** Computer vision for construction monitoring and inspection.
+- **Engineering Analytics:** Data-driven decision-making in construction projects.
+- **Predictive Modelling:** ML applications in construction materials, structural performance, and project management.
 
-My current focus is on strengthening my engineering fundamentals and machine learning skills before developing more specialized engineering-AI applications.
+I aim to combine strong engineering fundamentals with practical AI development to contribute to the future of engineering technology.
 
-## Structural Modelling Workflow
+### Structural Modelling Workflow
 
-My experience with Revit and Robot Structural Analysis has introduced me to a connected structural modelling and design workflow.
+My experience with Revit and Robot Structural Analysis has introduced me to an integrated structural modelling and design workflow.
 
 ```text
 Architectural Reference
@@ -141,31 +201,39 @@ Drawings and Documentation
 PDF Deliverables
 ```
 
-## Currently Learning
+---
 
-- Advanced machine learning techniques
-- Deep learning and computer vision
-- NLP and Transformer architectures
-- Model deployment using Flask and Streamlit
-- Docker and reproducible development environments
-- MLOps and cloud-based AI workflows
+## 📚 Currently Learning
+
+- Advanced Machine Learning and model optimization
+- Deep Learning and Computer Vision
+- Large Language Models and Transformer architectures
+- Advanced RAG architectures
+- LangGraph and agentic AI systems
+- LLM evaluation and AI engineering
+- Docker and cloud-based deployment
+- MLOps and production AI workflows
 - Structural analysis and BIM automation
 
-## GitHub Activity
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=default&hide_border=true" alt="GitHub statistics" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vedline2547&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=default&hide_border=true" alt="Most-used languages" height="165" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedline2547&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Vedline2547&theme=default&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Vedline2547&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
-*Statistics depend on the availability of the external services and the repositories they can access.*
+---
 
-## Connect With Me
+## 🤝 Connect With Me
+
+I'm interested in connecting with people working in Machine Learning, AI Engineering, Generative AI, software development, and engineering technology.
 
 - **GitHub:** [Vedline2547](https://github.com/Vedline2547)
 - **LinkedIn:** [Vedline Ochieng](https://www.linkedin.com/in/vedline-ochieng-025146290/)
@@ -174,12 +242,9 @@ PDF Deliverables
 
 <div align="center">
 
-**Keep Learning. Keep Building. Keep Engineering.**
+### Keep Learning. Keep Building. Keep Engineering.
 
-*Civil Engineering × Artificial Intelligence*
+**Civil Engineering × Machine Learning × Artificial Intelligence**
 
 </div>
-
-
-
 
